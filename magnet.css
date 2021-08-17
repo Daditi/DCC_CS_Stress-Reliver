@@ -1,0 +1,29 @@
+body{
+background-image: url(wall.png);
+background-size: cover;
+font-family: helvetica, arial, sans-serif;
+}
+
+#block{
+background-color: #eee;
+width:1000px;
+margin-left: auto;
+margin-right: auto;
+padding-bottom: 70px}
+
+
+#head{
+font-family: bold;
+background-image: url(5.png);
+background-size: cover;
+}
+
+#image{
+image-align: center;
+padding-left: 350px;
+}
+
+#main{
+font-family: bold;
+font-size: 20px;
+}

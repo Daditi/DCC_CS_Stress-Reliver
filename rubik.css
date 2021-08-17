@@ -1,0 +1,70 @@
+body{
+background-image: url(3.png);
+background-size: cover;
+font-family: helvetica, arial, sans-serif;
+}
+
+#block{
+background-color: #eee;
+width:1000px;
+margin-left: auto;
+margin-right: auto;
+padding-bottom: 70px}
+
+
+#head{
+font-family: bold;
+background-image: url(5.png);
+background-size: cover;
+}
+
+#image{
+float: left;
+image-align: left;
+padding-left: 50px;
+}
+
+#main{
+
+font-family: bold;
+font-size: 20px;
+}
+
+#fun{
+padding-left: 30px;
+font-family: bold;
+background-image: url(5.png);
+background-size: cover;
+
+}
+
+
+#fun2{
+padding-left: 30px;
+font-family: bold;
+background-image: url(5.png);
+background-size: cover;
+
+}
+#mad
+{float: right;
+align-image: right;
+padding-right: 40px;}
+#shoot
+{float: left;
+align-image: left;
+padding-left: 40px;}
+
+#dumb
+{float: right;
+align-image: right;
+padding-right: 40px;}
+
+#fint{
+background-color: #444444;
+back
+width:1000px;
+margin-left: auto;
+margin-right: auto;
+padding-bottom: 70px;
+clear: both;}

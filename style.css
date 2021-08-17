@@ -1,0 +1,72 @@
+body{
+background-image: url(2.png);
+background-size: cover;
+font-family: helvetica, arial, sans-serif;
+}
+a{
+text-decoration: none;
+}
+#block{
+background-image: url(5.png);
+background-size: cover;
+width:1000px;
+margin-left: auto;
+margin-right: auto;}
+#head{
+font-family: bold;
+background-image: url(head.png);
+background-size: cover;}
+#content{
+padding: 10px;
+}
+#nav{
+width: 180px;
+float: left;
+}
+#nav .selected{
+font-weight:bold;
+}
+#nav ul{
+list-style-type: none;
+padding: 0;
+}
+#rubik{
+float: left;
+padding-left: 50px;
+padding-right: 50px;
+}
+#fidget{
+float: left;
+padding-right: 50px;
+ 
+}
+#magnet{
+float: right;
+
+}
+#main2
+{
+text-align:right;
+}
+#ball{
+float: left;
+padding-left: 50px;
+padding-right: 50px;
+
+}
+#tube{
+float: left;
+padding-right: 50px;
+ 
+}
+#massager{
+float: left;
+padding-right: 30px; 
+
+}
+#footer{
+padding: 5px;
+text-align: right;
+clear: both;
+background-color: #444;
+color: white;}
